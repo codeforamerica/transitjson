@@ -1,6 +1,6 @@
-## TransitJSON
-
 **This is a WIP concept. Please contribute ideas and help it evolve.**
+
+## TransitJSON
 
 TransitJSON is a flavor of GeoJSON for transit data. It aims to be an abstraction over GTFS, enabling **easy visualization** and **large scale editing** of transit networks without worrying about the specifics of individual trips.
 
